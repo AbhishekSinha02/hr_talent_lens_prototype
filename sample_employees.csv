@@ -1,51 +1,51 @@
 employee_id,name,role,skills,annual_cost,hourly_rate,performance_score,billable_utilization_pct,availability_start_date,current_project_end,experience_years,location,stake_tier,past_projects,manager
-E001,Employee 1,Cloud Architect,GCP;Git;Numpy;SQL;Scala;Snowflake;Terraform,99772,49.89,3.75,36,2025-09-27,2025-09-13,3,Toronto,Low,ETL modernization,M. Chen
-E002,Employee 2,Data Engineer,Azure;CI/CD;Databricks;Kafka;Kubernetes;Numpy;Pandas;SQL;Terraform,154115,77.06,3.24,58,2025-08-23,2025-09-04,12,Ottawa,Low,ETL modernization;HR analytics;data migration,R. Singh
-E003,Employee 3,ML Engineer,GCP;LangChain;MLOps;Numpy;Pandas;SQL;Scala;Tableau;Terraform,156231,78.12,4.09,54,2025-11-12,2025-09-13,7,Montreal,Medium,A/B testing;data migration;real-time analytics,R. Singh
-E004,Employee 4,Data Scientist,Airflow;CI/CD;Kafka;LangChain;Power BI;Scala;Snowflake;Spark;Tableau,171618,85.81,4.48,40,2025-09-27,2025-11-04,11,Vancouver,Medium,A/B testing,M. Chen
-E005,Employee 5,Data Engineer,Delta Lake;LLM;MLOps;Numpy;Power BI;SQL;Scala;Tableau;Unity Catalog,167584,83.79,3.15,70,2025-11-06,2025-11-17,7,Remote,Medium,A/B testing;HR analytics;chatbot,J. Lee
-E006,Employee 6,DevOps Engineer,Azure;Databricks;GCP;Kafka;Kubernetes;Numpy;SQL;Spark;Tableau,167641,83.82,3.66,89,2025-11-30,2025-10-02,7,Calgary,Low,A/B testing,M. Chen
-E007,Employee 7,Project Manager,AWS;Azure;CI/CD;Databricks;Docker;Kubernetes;LLM;OpenAI;Scala;Terraform,116416,58.21,4.68,85,2025-10-28,2025-10-30,15,Vancouver,Low,chatbot;customer churn,J. Lee
-E008,Employee 8,Frontend Engineer,LLM;LangChain;MLOps;OpenAI;SQL;Snowflake,80536,40.27,3.28,77,2025-10-02,2025-11-09,11,Remote,High,IoT telemetry;genai assistant,M. Chen
-E009,Employee 9,ML Engineer,AWS;Airflow;LangChain;Power BI;SQL;Spark,143114,71.56,4.21,37,2025-08-18,2025-09-06,5,Toronto,High,ETL modernization,A. Patel
-E010,Employee 10,Cloud Architect,CI/CD;Delta Lake;Docker;LangChain;OpenAI;Tableau,160443,80.22,3.05,56,2025-08-20,2025-11-24,11,Toronto,Medium,A/B testing;genai assistant,J. Lee
-E011,Employee 11,ML Engineer,AWS;Azure;CI/CD;Docker;GCP;MLOps;Python;Snowflake,98889,49.44,3.19,73,2025-11-01,2025-10-26,13,Ottawa,Low,HR analytics;data migration;fraud detection,J. Lee
-E012,Employee 12,Project Manager,Airflow;Databricks;GCP;Git;LLM;LangChain;OpenAI;Pandas;Snowflake,128064,64.03,4.73,75,2025-11-17,2025-10-16,14,Calgary,High,recommendation engine,S. Brown
-E013,Employee 13,Business Analyst,CI/CD;Delta Lake;Docker;GCP;LLM;LangChain;MLOps;Power BI,126604,63.3,4.39,33,2025-08-15,2025-10-30,14,Vancouver,Low,A/B testing,R. Singh
-E014,Employee 14,Cloud Architect,AWS;Airflow;GCP;Kubernetes;LLM;Scala;Spark;Tableau;Terraform;Unity Catalog,106787,53.39,3.92,30,2025-11-15,2025-11-16,9,Remote,Medium,IoT telemetry;marketing attribution,A. Patel
-E015,Employee 15,Data Scientist,Azure;CI/CD;Docker;Git;LLM;LangChain;Numpy;Pandas;Tableau;Unity Catalog,102282,51.14,4.89,33,2025-08-07,2025-12-17,4,Toronto,High,ETL modernization;customer churn;fraud detection,M. Chen
-E016,Employee 16,Backend Engineer,Airflow;Delta Lake;Git;Numpy;Pandas;Terraform,107661,53.83,3.05,57,2025-11-19,2025-12-26,6,Vancouver,Low,A/B testing;HR analytics;real-time analytics,S. Brown
-E017,Employee 17,Project Manager,AWS;Azure;Git;LLM;LangChain;MLOps;Power BI;Python;Snowflake,135132,67.57,4.57,94,2025-10-04,2025-09-27,4,Ottawa,High,ETL modernization,A. Patel
-E018,Employee 18,Cloud Architect,Databricks;Delta Lake;GCP;Pandas;Power BI;SQL;Snowflake;Spark;Unity Catalog,169434,84.72,3.98,91,2025-08-08,2025-09-16,14,Toronto,Medium,ETL modernization;chatbot,S. Brown
-E019,Employee 19,Project Manager,Azure;Databricks;Delta Lake;GCP;MLOps;Pandas;Power BI;Snowflake;Terraform,106136,53.07,4.32,87,2025-08-20,2025-12-20,10,Calgary,Medium,HR analytics;fraud detection,R. Singh
-E020,Employee 20,DevOps Engineer,Azure;Delta Lake;Docker;LLM;MLOps;OpenAI,89584,44.79,3.4,68,2025-11-26,2025-09-20,14,Vancouver,Medium,marketing attribution,A. Patel
-E021,Employee 21,DevOps Engineer,Airflow;Docker;GCP;Git;Kubernetes;LLM;Python;Scala;Terraform,143866,71.93,3.31,58,2025-09-17,2025-12-08,4,Ottawa,Medium,marketing attribution;pricing optimization,M. Chen
-E022,Employee 22,Cloud Architect,AWS;CI/CD;Delta Lake;SQL;Scala;Spark,147821,73.91,4.19,95,2025-09-08,2025-09-17,3,Vancouver,Medium,IoT telemetry;customer churn;data migration,S. Brown
-E023,Employee 23,Project Manager,AWS;MLOps;Scala;Terraform;Unity Catalog,154789,77.39,3.94,71,2025-09-08,2025-10-30,3,Toronto,High,genai assistant,J. Lee
-E024,Employee 24,ML Engineer,Airflow;Azure;Delta Lake;LangChain;Pandas;Python;SQL;Terraform,159715,79.86,4.63,38,2025-10-11,2025-09-20,6,Remote,Low,customer churn,J. Lee
-E025,Employee 25,Data Engineer,AWS;Delta Lake;Docker;GCP;Git;Kafka;Power BI;Python;Snowflake,103743,51.87,3.38,69,2025-09-06,2025-11-06,12,Toronto,Low,marketing attribution,S. Brown
-E026,Employee 26,Project Manager,LLM;OpenAI;Pandas;Tableau;Terraform,104832,52.42,3.98,61,2025-11-19,2025-12-12,16,Calgary,High,marketing attribution;recommendation engine,R. Singh
-E027,Employee 27,Cloud Architect,Azure;CI/CD;OpenAI;Python;Scala,106034,53.02,4.58,47,2025-11-25,2025-11-16,8,Montreal,Medium,pricing optimization,A. Patel
-E028,Employee 28,DevOps Engineer,AWS;CI/CD;Delta Lake;Docker;Kafka;MLOps;OpenAI;Power BI;Python;SQL,146314,73.16,4.27,66,2025-09-16,2025-10-21,11,Ottawa,Medium,pricing optimization,J. Lee
-E029,Employee 29,Backend Engineer,Databricks;Delta Lake;GCP;Git;OpenAI;Python;Scala;Snowflake,126738,63.37,3.35,72,2025-09-07,2025-09-10,8,Toronto,Low,chatbot;pricing optimization,M. Chen
-E030,Employee 30,Data Engineer,Airflow;Kubernetes;LLM;LangChain;MLOps;Tableau,119275,59.64,3.58,59,2025-08-24,2026-01-02,3,Montreal,High,HR analytics;customer churn;pricing optimization,S. Brown
-E031,Employee 31,DevOps Engineer,CI/CD;Databricks;Git;LLM;Numpy;OpenAI;Python;Scala;Unity Catalog,176187,88.09,4.33,94,2025-08-10,2026-01-01,4,Vancouver,High,IoT telemetry;fraud detection,M. Chen
-E032,Employee 32,Project Manager,CI/CD;Power BI;Scala;Snowflake;Unity Catalog,86655,43.33,4.19,61,2025-11-27,2025-10-26,9,Ottawa,Low,A/B testing;ETL modernization;fraud detection,J. Lee
-E033,Employee 33,ML Engineer,GCP;Kafka;Kubernetes;LLM;LangChain;SQL;Scala;Tableau,114807,57.4,3.45,56,2025-08-14,2025-12-15,5,Ottawa,Low,HR analytics;data migration,J. Lee
-E034,Employee 34,AI Engineer,GCP;Kafka;LLM;MLOps;Spark;Tableau;Unity Catalog,154417,77.21,3.25,91,2025-11-03,2025-12-22,2,Ottawa,Medium,A/B testing;genai assistant,A. Patel
-E035,Employee 35,Project Manager,Delta Lake;Kafka;Power BI;Scala;Snowflake,106116,53.06,3.59,40,2025-09-23,2025-12-19,16,Vancouver,Low,chatbot,A. Patel
-E036,Employee 36,Data Scientist,Databricks;Docker;Kubernetes;LLM;MLOps;Spark;Tableau,177974,88.99,4.0,76,2025-08-08,2025-12-28,4,Vancouver,Low,A/B testing;HR analytics,M. Chen
-E037,Employee 37,Frontend Engineer,Airflow;Git;Kubernetes;Python;Spark,175313,87.66,3.27,74,2025-12-03,2025-11-08,8,Vancouver,High,marketing attribution,J. Lee
-E038,Employee 38,Frontend Engineer,CI/CD;Delta Lake;Git;MLOps;SQL;Spark;Terraform,128787,64.39,3.12,79,2025-11-19,2025-09-08,15,Remote,Medium,customer churn;data migration;recommendation engine,M. Chen
-E039,Employee 39,Project Manager,Git;Kubernetes;OpenAI;Pandas;Unity Catalog,121366,60.68,3.36,77,2025-10-14,2025-12-07,14,Vancouver,High,pricing optimization,M. Chen
-E040,Employee 40,Business Analyst,AWS;Airflow;Azure;Delta Lake;Kafka;Numpy;OpenAI;Tableau;Terraform,160598,80.3,4.43,66,2025-09-25,2025-09-01,9,Remote,Low,A/B testing;ETL modernization,M. Chen
-E041,Employee 41,ML Engineer,Airflow;Azure;CI/CD;Databricks;Pandas;Power BI;Terraform;Unity Catalog,101932,50.97,4.22,39,2025-08-29,2025-12-26,5,Vancouver,Low,real-time analytics,S. Brown
-E042,Employee 42,ML Engineer,CI/CD;GCP;Kubernetes;Snowflake;Terraform,121849,60.92,3.45,63,2025-09-22,2025-10-10,14,Montreal,Medium,A/B testing,J. Lee
-E043,Employee 43,AI Engineer,Databricks;Delta Lake;Kubernetes;OpenAI;Power BI,127204,63.6,3.24,94,2025-09-29,2025-10-14,10,Montreal,Low,pricing optimization,M. Chen
-E044,Employee 44,Business Analyst,Azure;CI/CD;Databricks;Git;LLM;Power BI;Snowflake;Spark,156962,78.48,3.93,39,2025-12-03,2026-01-02,8,Remote,High,A/B testing;fraud detection;genai assistant,S. Brown
-E045,Employee 45,Data Engineer,Azure;Delta Lake;Kafka;MLOps;Numpy;OpenAI;Scala;Snowflake;Spark;Terraform,80179,40.09,4.49,59,2025-09-12,2025-08-29,11,Ottawa,High,IoT telemetry,J. Lee
-E046,Employee 46,Backend Engineer,Databricks;Git;LLM;OpenAI;Pandas;Snowflake;Tableau,158782,79.39,3.0,68,2025-08-08,2025-10-30,9,Calgary,High,data migration;marketing attribution;pricing optimization,R. Singh
-E047,Employee 47,Business Analyst,Airflow;Databricks;Docker;GCP;Git;Kubernetes;SQL;Tableau;Terraform;Unity Catalog,168403,84.2,4.23,40,2025-08-05,2025-10-17,6,Montreal,High,A/B testing;fraud detection;recommendation engine,R. Singh
-E048,Employee 48,Frontend Engineer,AWS;Databricks;LangChain;Tableau;Terraform,105419,52.71,3.44,58,2025-11-29,2025-11-03,6,Remote,Low,IoT telemetry;customer churn;pricing optimization,R. Singh
-E049,Employee 49,Data Engineer,Airflow;Kubernetes;MLOps;Power BI;Scala;Spark,158135,79.07,3.27,36,2025-12-02,2025-09-04,13,Vancouver,Medium,customer churn,S. Brown
-E050,Employee 50,Business Analyst,AWS;Delta Lake;LLM;Power BI;Python;Scala;Spark,84180,42.09,3.59,78,2025-09-18,2025-11-23,15,Calgary,Low,IoT telemetry;genai assistant;recommendation engine,J. Lee
+E001,Olivia Bennett  ,Cloud Architect,GCP;Git;Numpy;SQL;Scala;Snowflake;Terraform,99772,49.89,3.75,36,9/27/2025,9/13/2025,3,Toronto,Low,ETL modernization,M. Chen
+E002,Liam Carter  ,Data Engineer,Azure;CI/CD;Databricks;Kafka;Kubernetes;Numpy;Pandas;SQL;Terraform,154115,77.06,3.24,58,8/23/2025,9/4/2025,12,Ottawa,Low,ETL modernization;HR analytics;data migration,R. Singh
+E003,Emma Davis  ,ML Engineer,GCP;LangChain;MLOps;Numpy;Pandas;SQL;Scala;Tableau;Terraform,156231,78.12,4.09,54,11/12/2025,9/13/2025,7,Montreal,Medium,A/B testing;data migration;real-time analytics,R. Singh
+E004,Noah Evans  ,Data Scientist,Airflow;CI/CD;Kafka;LangChain;Power BI;Scala;Snowflake;Spark;Tableau,171618,85.81,4.48,40,9/27/2025,11/4/2025,11,Vancouver,Medium,A/B testing,M. Chen
+E005,Ava Foster  ,Data Engineer,Delta Lake;LLM;MLOps;Numpy;Power BI;SQL;Scala;Tableau;Unity Catalog,167584,83.79,3.15,70,11/6/2025,11/17/2025,7,Remote,Medium,A/B testing;HR analytics;chatbot,J. Lee
+E006,Mason Gray  ,DevOps Engineer,Azure;Databricks;GCP;Kafka;Kubernetes;Numpy;SQL;Spark;Tableau,167641,83.82,3.66,89,11/30/2025,10/2/2025,7,Calgary,Low,A/B testing,M. Chen
+E007,Sophia Harris  ,Project Manager,AWS;Azure;CI/CD;Databricks;Docker;Kubernetes;LLM;OpenAI;Scala;Terraform,116416,58.21,4.68,85,10/28/2025,10/30/2025,15,Vancouver,Low,chatbot;customer churn,J. Lee
+E008,Lucas Irving  ,Frontend Engineer,LLM;LangChain;MLOps;OpenAI;SQL;Snowflake,80536,40.27,3.28,77,10/2/2025,11/9/2025,11,Remote,High,IoT telemetry;genai assistant,M. Chen
+E009,Isabella Jenkins  ,ML Engineer,AWS;Airflow;LangChain;Power BI;SQL;Spark,143114,71.56,4.21,37,8/18/2025,9/6/2025,5,Toronto,High,ETL modernization,A. Patel
+E010,Ethan Kelly  ,Cloud Architect,CI/CD;Delta Lake;Docker;LangChain;OpenAI;Tableau,160443,80.22,3.05,56,8/20/2025,11/24/2025,11,Toronto,Medium,A/B testing;genai assistant,J. Lee
+E011,Mia Lewis  ,ML Engineer,AWS;Azure;CI/CD;Docker;GCP;MLOps;Python;Snowflake,98889,49.44,3.19,73,11/1/2025,10/26/2025,13,Ottawa,Low,HR analytics;data migration;fraud detection,J. Lee
+E012,James Morgan  ,Project Manager,Airflow;Databricks;GCP;Git;LLM;LangChain;OpenAI;Pandas;Snowflake,128064,64.03,4.73,75,11/17/2025,10/16/2025,14,Calgary,High,recommendation engine,S. Brown
+E013,Charlotte Nelson  ,Business Analyst,CI/CD;Delta Lake;Docker;GCP;LLM;LangChain;MLOps;Power BI,126604,63.3,4.39,33,8/15/2025,10/30/2025,14,Vancouver,Low,A/B testing,R. Singh
+E014,Benjamin Ortiz  ,Cloud Architect,AWS;Airflow;GCP;Kubernetes;LLM;Scala;Spark;Tableau;Terraform;Unity Catalog,106787,53.39,3.92,30,11/15/2025,11/16/2025,9,Remote,Medium,IoT telemetry;marketing attribution,A. Patel
+E015,Amelia Parker  ,Data Scientist,Azure;CI/CD;Docker;Git;LLM;LangChain;Numpy;Pandas;Tableau;Unity Catalog,102282,51.14,4.89,33,8/7/2025,12/17/2025,4,Toronto,High,ETL modernization;customer churn;fraud detection,M. Chen
+E016,Henry Quinn  ,Backend Engineer,Airflow;Delta Lake;Git;Numpy;Pandas;Terraform,107661,53.83,3.05,57,11/19/2025,12/26/2025,6,Vancouver,Low,A/B testing;HR analytics;real-time analytics,S. Brown
+E017,Harper Reed  ,Project Manager,AWS;Azure;Git;LLM;LangChain;MLOps;Power BI;Python;Snowflake,135132,67.57,4.57,94,10/4/2025,9/27/2025,4,Ottawa,High,ETL modernization,A. Patel
+E018,Alexander Scott  ,Cloud Architect,Databricks;Delta Lake;GCP;Pandas;Power BI;SQL;Snowflake;Spark;Unity Catalog,169434,84.72,3.98,91,8/8/2025,9/16/2025,14,Toronto,Medium,ETL modernization;chatbot,S. Brown
+E019,Evelyn Taylor  ,Project Manager,Azure;Databricks;Delta Lake;GCP;MLOps;Pandas;Power BI;Snowflake;Terraform,106136,53.07,4.32,87,8/20/2025,12/20/2025,10,Calgary,Medium,HR analytics;fraud detection,R. Singh
+E020,Daniel Underwood  ,DevOps Engineer,Azure;Delta Lake;Docker;LLM;MLOps;OpenAI,89584,44.79,3.4,68,11/26/2025,9/20/2025,14,Vancouver,Medium,marketing attribution,A. Patel
+E021,Abigail Vaughn  ,DevOps Engineer,Airflow;Docker;GCP;Git;Kubernetes;LLM;Python;Scala;Terraform,143866,71.93,3.31,58,9/17/2025,12/8/2025,4,Ottawa,Medium,marketing attribution;pricing optimization,M. Chen
+E022,Matthew Walker  ,Cloud Architect,AWS;CI/CD;Delta Lake;SQL;Scala;Spark,147821,73.91,4.19,95,9/8/2025,9/17/2025,3,Vancouver,Medium,IoT telemetry;customer churn;data migration,S. Brown
+E023,Ella Xu  ,Project Manager,AWS;MLOps;Scala;Terraform;Unity Catalog,154789,77.39,3.94,71,9/8/2025,10/30/2025,3,Toronto,High,genai assistant,J. Lee
+E024,Samuel Young  ,ML Engineer,Airflow;Azure;Delta Lake;LangChain;Pandas;Python;SQL;Terraform,159715,79.86,4.63,38,10/11/2025,9/20/2025,6,Remote,Low,customer churn,J. Lee
+E025,Lily Zimmerman  ,Data Engineer,AWS;Delta Lake;Docker;GCP;Git;Kafka;Power BI;Python;Snowflake,103743,51.87,3.38,69,9/6/2025,11/6/2025,12,Toronto,Low,marketing attribution,S. Brown
+E026,Jackson Brooks  ,Project Manager,LLM;OpenAI;Pandas;Tableau;Terraform,104832,52.42,3.98,61,11/19/2025,12/12/2025,16,Calgary,High,marketing attribution;recommendation engine,R. Singh
+E027,Grace Campbell  ,Cloud Architect,Azure;CI/CD;OpenAI;Python;Scala,106034,53.02,4.58,47,11/25/2025,11/16/2025,8,Montreal,Medium,pricing optimization,A. Patel
+E028,Aiden Diaz  ,DevOps Engineer,AWS;CI/CD;Delta Lake;Docker;Kafka;MLOps;OpenAI;Power BI;Python;SQL,146314,73.16,4.27,66,9/16/2025,10/21/2025,11,Ottawa,Medium,pricing optimization,J. Lee
+E029,Chloe Edwards  ,Backend Engineer,Databricks;Delta Lake;GCP;Git;OpenAI;Python;Scala;Snowflake,126738,63.37,3.35,72,9/7/2025,9/10/2025,8,Toronto,Low,chatbot;pricing optimization,M. Chen
+E030,Gabriel Flores  ,Data Engineer,Airflow;Kubernetes;LLM;LangChain;MLOps;Tableau,119275,59.64,3.58,59,8/24/2025,1/2/2026,3,Montreal,High,HR analytics;customer churn;pricing optimization,S. Brown
+E031,Scarlett Graham  ,DevOps Engineer,CI/CD;Databricks;Git;LLM;Numpy;OpenAI;Python;Scala;Unity Catalog,176187,88.09,4.33,94,8/10/2025,1/1/2026,4,Vancouver,High,IoT telemetry;fraud detection,M. Chen
+E032,Julian Hayes  ,Project Manager,CI/CD;Power BI;Scala;Snowflake;Unity Catalog,86655,43.33,4.19,61,11/27/2025,10/26/2025,9,Ottawa,Low,A/B testing;ETL modernization;fraud detection,J. Lee
+E033,Victoria Ingram  ,ML Engineer,GCP;Kafka;Kubernetes;LLM;LangChain;SQL;Scala;Tableau,114807,57.4,3.45,56,8/14/2025,12/15/2025,5,Ottawa,Low,HR analytics;data migration,J. Lee
+E034,Levi Johnson  ,AI Engineer,GCP;Kafka;LLM;MLOps;Spark;Tableau;Unity Catalog,154417,77.21,3.25,91,11/3/2025,12/22/2025,2,Ottawa,Medium,A/B testing;genai assistant,A. Patel
+E035,Zoey King  ,Project Manager,Delta Lake;Kafka;Power BI;Scala;Snowflake,106116,53.06,3.59,40,9/23/2025,12/19/2025,16,Vancouver,Low,chatbot,A. Patel
+E036,Nathan Lee  ,Data Scientist,Databricks;Docker;Kubernetes;LLM;MLOps;Spark;Tableau,177974,88.99,4,76,8/8/2025,12/28/2025,4,Vancouver,Low,A/B testing;HR analytics,M. Chen
+E037,Penelope Martinez  ,Frontend Engineer,Airflow;Git;Kubernetes;Python;Spark,175313,87.66,3.27,74,12/3/2025,11/8/2025,8,Vancouver,High,marketing attribution,J. Lee
+E038,Caleb Nguyen  ,Frontend Engineer,CI/CD;Delta Lake;Git;MLOps;SQL;Spark;Terraform,128787,64.39,3.12,79,11/19/2025,9/8/2025,15,Remote,Medium,customer churn;data migration;recommendation engine,M. Chen
+E039,Aria O'Connor  ,Project Manager,Git;Kubernetes;OpenAI;Pandas;Unity Catalog,121366,60.68,3.36,77,10/14/2025,12/7/2025,14,Vancouver,High,pricing optimization,M. Chen
+E040,Ryan Patel  ,Business Analyst,AWS;Airflow;Azure;Delta Lake;Kafka;Numpy;OpenAI;Tableau;Terraform,160598,80.3,4.43,66,9/25/2025,9/1/2025,9,Remote,Low,A/B testing;ETL modernization,M. Chen
+E041,Nora Ramirez  ,ML Engineer,Airflow;Azure;CI/CD;Databricks;Pandas;Power BI;Terraform;Unity Catalog,101932,50.97,4.22,39,8/29/2025,12/26/2025,5,Vancouver,Low,real-time analytics,S. Brown
+E042,Isaac Simmons  ,ML Engineer,CI/CD;GCP;Kubernetes;Snowflake;Terraform,121849,60.92,3.45,63,9/22/2025,10/10/2025,14,Montreal,Medium,A/B testing,J. Lee
+E043,Ellie Thompson  ,AI Engineer,Databricks;Delta Lake;Kubernetes;OpenAI;Power BI,127204,63.6,3.24,94,9/29/2025,10/14/2025,10,Montreal,Low,pricing optimization,M. Chen
+E044,Owen Ulrich  ,Business Analyst,Azure;CI/CD;Databricks;Git;LLM;Power BI;Snowflake;Spark,156962,78.48,3.93,39,12/3/2025,1/2/2026,8,Remote,High,A/B testing;fraud detection;genai assistant,S. Brown
+E045,Layla Valentine  ,Data Engineer,Azure;Delta Lake;Kafka;MLOps;Numpy;OpenAI;Scala;Snowflake;Spark;Terraform,80179,40.09,4.49,59,9/12/2025,8/29/2025,11,Ottawa,High,IoT telemetry,J. Lee
+E046,Wyatt West  ,Backend Engineer,Databricks;Git;LLM;OpenAI;Pandas;Snowflake;Tableau,158782,79.39,3,68,8/8/2025,10/30/2025,9,Calgary,High,data migration;marketing attribution;pricing optimization,R. Singh
+E047,Hannah Xu  ,Business Analyst,Airflow;Databricks;Docker;GCP;Git;Kubernetes;SQL;Tableau;Terraform;Unity Catalog,168403,84.2,4.23,40,8/5/2025,10/17/2025,6,Montreal,High,A/B testing;fraud detection;recommendation engine,R. Singh
+E048,Carter Young  ,Frontend Engineer,AWS;Databricks;LangChain;Tableau;Terraform,105419,52.71,3.44,58,11/29/2025,11/3/2025,6,Remote,Low,IoT telemetry;customer churn;pricing optimization,R. Singh
+E049,Stella Zane  ,Data Engineer,Airflow;Kubernetes;MLOps;Power BI;Scala;Spark,158135,79.07,3.27,36,12/2/2025,9/4/2025,13,Vancouver,Medium,customer churn,S. Brown
+E050,Dylan Anderson  ,Business Analyst,AWS;Delta Lake;LLM;Power BI;Python;Scala;Spark,84180,42.09,3.59,78,9/18/2025,11/23/2025,15,Calgary,Low,IoT telemetry;genai assistant;recommendation engine,J. Lee
