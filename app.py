@@ -119,7 +119,15 @@ def score_employees(df, filters):
 
 
 # --- Streamlit App ---
-st.title("HR Talent Lens - AI Recommendation Engine")
+#st.title("HR Talent Lens - AI Recommendation Engine")
+st.set_page_config(page_title="🔍HR Talent Lens", layout="wide")
+col1, col2 = st.columns([1, 6])  # adjust width ratio
+with col1:
+    st.image("hrtalentlenslogo.png", width=270)  # your logo
+with col2:
+    st.title("HR Talent Lens - AI Powered HR Assistant")
+    st.subheader("Project Goal based talent recommendations with Score and Reasons")  # Additional text
+
 
 uploaded_file = st.file_uploader("Upload Employee CSV", type=["csv"])
 
