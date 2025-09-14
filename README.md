@@ -1,5 +1,7 @@
 # HR Talent Lens — Full Prototype\n\nRun: pip install -r requirements.txt && streamlit run app.py
 
+Project URL: https://yashtech-ai-hr-talent-lens.streamlit.app/
+
 Sample Prompts:
 
 We need a high-stake project leader in Toronto with strong cloud architecture and AI/ML experience, available in the next 2 weeks, with a budget around 150k CAD. Show the top 5 best-fit employees
