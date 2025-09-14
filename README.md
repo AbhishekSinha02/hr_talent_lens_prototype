@@ -1,4 +1,6 @@
-# HR Talent Lens — Full Prototype\n\nRun: pip install -r requirements.txt && streamlit run app.py
+# HR Talent Lens — Prototype
+nRun: pip install -r requirements.txt 
+streamlit run app.py
 
 Project URL: https://yashtech-ai-hr-talent-lens.streamlit.app/
 
