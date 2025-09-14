@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HR Talent Lens — Full Prototype\n\nRun: pip install -r requirements.txt && streamlit run app.py
 
 Sample Prompts:
@@ -15,7 +14,5 @@ I need an AI engineer who is currently busy, but will be available in the next q
 Show me employees who are not only skilled in Python and Spark, but also have proven mentoring or leadership experience for managing a team of interns.
 
 Who are the top candidates for a DevOps automation role if the project is based in Calgary, but can also consider remote employees within Canada?
-=======
-# hr_talent_lens_prototype
-hr_talent_lens_prototype
->>>>>>> fc314cf82c97f4ef30c14b38e353f63e4f25c9b2
+
+Find the best employees for a high-visibility executive project requiring strong presentation and stakeholder management skills, along with experience in cloud cost optimization.
