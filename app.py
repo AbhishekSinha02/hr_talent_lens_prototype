@@ -141,7 +141,8 @@ if uploaded_file:
     top_n_default = st.slider("Number of employees to recommend", 5, 50, 10)
 
     if st.button("Recommend"):
-        filters = parse_request_with_openai(user_prompt) or parse_request_local(user_prompt)
+        filters = parse_request_with_openai(user_prompt)
+        # or parse_request_local(user_prompt)
 
         # Use slider if prompt did not specify top_n
         top_n = filters.get("top_n") if filters.get("top_n") else top_n_default
