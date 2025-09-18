@@ -145,7 +145,16 @@ if uploaded_file:
         # or parse_request_local(user_prompt)
 
         # Use slider if prompt did not specify top_n
-        top_n = filters.get("top_n") if filters.get("top_n") else top_n_default
+        # make sure filters is a dict and fallback works
+        top_n_default = 5
+        top_n = (filters or {}).get("top_n", top_n_default)
+        
+        # ensure top_n is an integer
+        try:
+            top_n = int(top_n)
+        except (ValueError, TypeError):
+            top_n = top_n_default
+
 
         scored_df = score_employees(df, filters).reset_index(drop=True)
         scored_df.index = scored_df.index + 1  # sequential numbering
